@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.recipe-title {
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.recipe-title h6 {
+    font-weight: 400;
+}
+
+.recipe-title p {
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.topnav {
+    background-color: #555555;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    text-align: center;
+    
+    padding: 24px 36px;
+    font-size: 17px;
+    text-decoration: none;
+    color:white;
+}
+.topnav a:hover {
+    background-color: #5879ff;
+    color: rgb(34, 34, 34);
+}
+
+.topnav a.active {
+    background-color: #5070ec;
+    color: white;
+}

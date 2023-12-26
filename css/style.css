@@ -9,6 +9,8 @@ h3 {
 
 img {
     border-radius: 2%;
+    width: auto;
+    height: auto;
 
 }
 
@@ -48,7 +50,7 @@ body {
     float: left;
     text-align: center;
     
-    padding: 24px 36px;
+    padding: 14px 26px;
     font-size: 17px;
     text-decoration: none;
     color:white;
